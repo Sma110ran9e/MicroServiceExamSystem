@@ -1,0 +1,2 @@
+# MicroServiceExamSystem
+SpringBoot+Dubbo+Mybatis的微服务课设项目 该项目分为8个微服务：1个api，6个服务提供者，1个服务消费者 先将sql文件导入到数据库 再开启zookeeper 再运行6个服务提供者，全部await后最后启动服务消费者 打开网页运行
